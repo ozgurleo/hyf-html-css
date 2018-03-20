@@ -1,0 +1,132 @@
+body{
+  text-align:center;
+  background-image: url(https://wallpapercave.com/wp/NTM2a6z.jpg);
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+  color: rgb(254,239,214);
+    background-color: orange;
+  margin:auto;
+  font-size:100px;
+  
+ }
+p{
+  font-family:Arial
+}
+#poster{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+  margin-top:20px;
+  margin-bottom:20px;
+  border: 6px ridge orange;
+}
+.ichigo-color{
+  color:orange;
+ }
+#fight{
+  font-weight:bold;
+  background-color:rgb(230,230,230);
+   width: 90%;
+   height: 50%;
+   overflow: auto;
+  border: 1px solid black;
+  margin:auto;
+}
+h2{
+  font-family:"Palatino Linotype", arial, serif;
+  Color:red;
+  margin:auto;
+  font-size:80px;
+}
+h3{
+  font-family:"Palatino Linotype", arial, serif;
+  Color:red;
+  margin:auto;
+  font-size:60px;
+}
+#story{
+  background-color:rgb(227, 202, 227);
+   width: 90%;
+   height: 70%;
+   overflow: auto;
+  border: 1px solid black;
+  margin:auto;
+}
+#container{
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px double black;
+  margin: auto;
+  width: 75%;
+  border-top: 50px double black;
+}
+#youtube-video{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+  margin-top:20px;
+  margin-bottom:20px;
+  border:6px ridge orange;
+}
+#character{
+   margin-ledt:10px;
+}
+.photo-characters{
+  border: 4px ridge orange;
+  width:200px;
+  height:150px;
+   top: 30px;
+   left: 20px;
+
+  }
+#ichigo{
+  background-color:rgb(227, 200, 227);
+}
+#renji{
+ background-color:rgb(227, 202, 227);
+}
+#inoue{
+  background-color:rgb(227, 190, 227);
+}
+#rukia{background-color:rgb(227, 190, 227);
+  
+}
+#ishida{
+  background-color:rgb(227, 190, 227);
+}
+#chad{
+  background-color:rgb(227, 190, 227);
+}
+#aizen{
+  background-color:black;
+    color:white 
+}
+thead{
+  foont-size:200px;
+  color:red;
+}
+#table-header{
+  foont-size:400px;
+  background-color:red;
+}
+table, th, td {
+  border: 3px solid black;
+     background-color:rgb(121, 138, 232);
+  color:black;
+}
+a:link {
+                color: red;
+            }
+a:hover{
+  background-color:orange;
+  color:black;
+  font-size:20px;
+}
+a:visited{
+  color:orange;
+}
+a:hover { 
+background-color: rgb(255,214,255);          }
