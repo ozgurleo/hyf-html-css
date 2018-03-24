@@ -4,8 +4,9 @@ body{
     width: 50%;
     border: 3px solid black;
     padding: 10px;
+    background-image:url(http://www.yoannbourse.com/ressources/design/teal/background.jpg)
              }
-.personelinfo{
+.experience{
     margin: auto;
     margin-top: 10px;
     width:90%;
@@ -15,7 +16,7 @@ body{
     
 }
 .job{
-    margin-left:3px;
+    margin-left:10px;
     margin-top: 10px;
     width:75%;
     border: 1px solid black;
@@ -27,8 +28,10 @@ img{
     float: left;
     margin-bottom: 15px;
     margin-right:15px;
+    border: 2px solid black;
+    margin-left:35px;
 }
-#personelinfo{
+#personel-info{
     font-size: 25px;
     
 }
