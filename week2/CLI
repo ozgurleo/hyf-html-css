@@ -1,0 +1,9 @@
+  touch .hiddenfile1
+  mkdir -p ./these/folder/just/for/fun
+  echo "test" > fun
+  echo "another test" >> fun
+  wc -c fun
+  18 fun
+  echo -n "another test" >> fun.txt
+  cat fun.txt 
+  cat -n fun.txt 
