@@ -5,5 +5,5 @@
   wc -c fun
   18 fun
   echo -n "another test" >> fun.txt
-  cat fun.txt 
-  cat -n fun.txt 
+  echo "testanother test"
+  testanother test
