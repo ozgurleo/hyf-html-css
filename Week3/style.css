@@ -1,9 +1,9 @@
-html {
+ *{
     margin: 0;
     padding: 0;
 }
 
-.container {
+.whole{
     width: 100%;
 }
 
@@ -16,11 +16,11 @@ html {
     margin: 0 0 0 45%;
 }
 
-.nav {
+.menu {
     width: 100%;
 }
 
-.nav ul {
+.menu ul {
     list-style: none;
     display: flex;
     background-color:orangered;
@@ -34,7 +34,7 @@ html {
     z-index:99;
 }
 
-.nav ul li a {
+.menu ul li a {
     margin: 15px;
     font-size: 20px;
     color: white;
@@ -48,7 +48,7 @@ html {
     color: white;
 }
 
-.main-serch {
+.mainserach {
     display: flex;
     width: auto;
     height: 300px;
@@ -58,7 +58,7 @@ html {
     background-repeat: no-repeat;
 }
 
-.main-serch-navbar {
+.mainsearch-navbar {
     background: white;
     width: 28%;
     height: 73%;
@@ -67,19 +67,19 @@ html {
     padding: 10px;
 }
 
-.main-serch-navbar ul {
+.mainsearch-navbar ul {
     list-style: none;
     font-size: 19px;
     font-weight: bold;
 }
 
-.main-serch-navbar ul li {
+.mainsearch-navbar ul li {
     margin: 8px;
     font-weight: bold;
     margin-left: -15px;
 }
 
-.main-serch-navbar ul li a {
+.mainsearch-navbar ul li a {
     text-decoration: none;
     color: #315984;
 }
